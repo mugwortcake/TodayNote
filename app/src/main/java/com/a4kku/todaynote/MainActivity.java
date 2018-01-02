@@ -8,8 +8,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        System.out.println("32비트는 씹 똥 컴 입니다");
-        System.out.println("맞습니다.");
+        System.out.println("ㅇ라널민");
+        
         setContentView(R.layout.activity_main);
     }
 }
